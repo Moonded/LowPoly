@@ -1,2 +1,2 @@
 # LowPoly
-EagleOneSboxGame,Jam - Low Poly Assets
+EagleOneSboxGameJam - Low Poly Assets
